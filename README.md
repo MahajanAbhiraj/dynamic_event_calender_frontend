@@ -13,3 +13,6 @@ FEATURES:
     - Start time and end time
     - Optional description
 10)Fully Functional Calendar
+
+backend repo link: https://github.com/MahajanAbhiraj/dynamic_event_calender_backend
+deployed link: https://dynamic-event-calender-frontend.vercel.app/
